@@ -1,5 +1,5 @@
-# springXmlBasedAutowiring
-This example presents the basic concept of using in Spring the XML based autowiring.
+# springMvcHelloWordXmlConfig
+This example presents the basic concept of using in Spring MVC the XML based configuration.
 
 The technologies used are :
  - Spring 4.3.4
